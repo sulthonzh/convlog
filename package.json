@@ -1,0 +1,13 @@
+{
+  "name": "convlog",
+  "version": "1.0.0",
+  "description": "Generate CHANGELOGs from conventional git commits. Zero dependencies.",
+  "main": "index.js",
+  "bin": { "convlog": "./cli.js" },
+  "scripts": { "test": "node test.js" },
+  "keywords": ["changelog", "conventional-commits", "git", "changelog-generator"],
+  "license": "MIT",
+  "author": "sulthonzh",
+  "repository": { "type": "git", "url": "https://github.com/sulthonzh/convlog" },
+  "engines": { "node": ">=14" }
+}
