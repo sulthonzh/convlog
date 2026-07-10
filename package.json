@@ -33,5 +33,8 @@
   "homepage": "https://github.com/sulthonzh/convlog#readme",
   "bugs": {
     "url": "https://github.com/sulthonzh/convlog/issues"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
   }
 }
